@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lec00">    Главные Герои</string>
+    <string name="lec01">Том 1.</string>
+    <string name="lec11">Том 2.</string>
+    <string name="lec15">Том 3.</string>
+    <string name="prog">     История</string>
+
+</resources>
